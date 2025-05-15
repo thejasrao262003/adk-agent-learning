@@ -13,7 +13,7 @@ This guide covers the essential components and steps for building an agent using
 ## Important Tips
 
 ### Root Agent Requirement
-- Ensure inside ADK there is at least one root_agent
+- Ensure inside ADK there is at least one root_agents
 
 ### Essential Properties
 The following properties are crucial for agent configuration:
